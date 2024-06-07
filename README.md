@@ -13,8 +13,8 @@ I'm an Android developer passionate about building intuitive and dynamic mobile 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 📂 Featured Projects
-- [Project Name](https://github.com/Mohamed-Ayad902/project) - A brief description of what this project is about.
-- [Another Project](https://github.com/Mohamed-Ayad902/project) - A brief description of this project.
+- [Epic Hardware](https://github.com/Mohamed-Ayad902/Grocery) - A complete online store for ordering computer hardware drives.
+- [Mova](https://github.com/Mohamed-Ayad902/Mova) - Movies data app that shows movies and series info with the help of tmbd api.
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayad902&show_icons=true&theme=radical)
@@ -33,4 +33,4 @@ I'm an Android developer passionate about building intuitive and dynamic mobile 
 - I enjoy experimenting with new tech gadgets.
 - I have a knack for solving complex problems with creative solutions.
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mohamed-ayad-10786b212/) or [Twitter](https://twitter.com/yourprofile).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mohamed-ayad-10786b212/), or email at [mohamed.ayad7474@gmail.com](mailto:mohamed.ayad7474@gmail.com).
