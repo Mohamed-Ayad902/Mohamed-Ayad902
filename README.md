@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Ayad 👋
 
-<!--
-**Mohamed-Ayad902/Mohamed-Ayad902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-Here are some ideas to get you started:
+I'm an Android developer passionate about building intuitive and dynamic mobile applications. Here's a bit more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 📂 Featured Projects
+- [Project Name](https://github.com/Mohamed-Ayad902/project) - A brief description of what this project is about.
+- [Another Project](https://github.com/Mohamed-Ayad902/project) - A brief description of this project.
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayad902&show_icons=true&theme=radical)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ayad902&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mohamed-Ayad902&theme=radical)
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohamed-Ayad902&theme=radical)
+
+### 🌟 Fun Facts
+- I'm always excited to learn new Android libraries and tools.
+- I enjoy experimenting with new tech gadgets.
+- I have a knack for solving complex problems with creative solutions.
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mohamed-ayad-10786b212/) or [Twitter](https://twitter.com/yourprofile).
