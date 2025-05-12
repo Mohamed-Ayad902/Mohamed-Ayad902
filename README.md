@@ -58,7 +58,7 @@ I’m a dedicated Android engineer with over past years of professional experien
 
 - 👨‍💻 I’m a lifelong learner—always experimenting with the latest Android libraries.
 - 🎮 Gaming fuels my creative problem-solving sessions.
-- 🎸 Outside code, I play guitar to unwind and spark fresh ideas.
+- 🎸 Outside code, I hit Gym to unwind and spark fresh ideas.
 
 ---
 
@@ -66,6 +66,6 @@ I’m a dedicated Android engineer with over past years of professional experien
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-ayad-10786b212/)
 - [Email](mailto:mohamed.ayad7474@gmail.com)
-- [Twitter](https://twitter.com/MohamedAyadDev)
+- [WhatsApp](https://wa.me/201289303016)
 
 Thanks for stopping by — let’s build something amazing together! 👨‍💻
